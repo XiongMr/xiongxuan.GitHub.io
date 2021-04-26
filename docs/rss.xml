@@ -15,43 +15,18 @@
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>me@xiongxuan.me (xiongxuan)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>me@xiongxuan.me (xiongxuan)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 12 Apr 2021 11:38:49 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 23:00:38 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://example.org/rss.xml" />
         
-        
-            <item>
-                <title>Hello World</title>
-                <link>http://example.org/posts/hello-world/</link>
-                <guid isPermaLink="true">http://example.org/posts/hello-world/</guid>
-                <pubDate>Mon, 12 Apr 2021 11:33:45 &#43;0800</pubDate>
-                
-                    <author>reuixiy@gmail.com (reuixiy)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;h2 id=&#34;hello-world&#34;&gt;hello world&lt;/h2&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>
